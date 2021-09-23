@@ -72,7 +72,8 @@ color: white; }
 
 @media screen and (max-width:400px) {
     .container{ display: flex;
-    flex-direction: column;}
+    flex-direction: column;
+overflow: hidden;}
     
 }
 
